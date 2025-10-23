@@ -20,19 +20,16 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
 - Victor (2011). [Scientific Communication As Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/). <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
 - Watts, Dodds, and Newman (2002). [Identity and Search in Social Networks](https://dx.doi.org/10.1126/science.1070120). _Science_, 296:1302-1305. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 
-<hr>
-
 ## Week 2: What do social networks look like?
 
 - Newman (2018). [Chapter 4: Social networks](https://doi.org/10.1093/oso/9780198805090.003.0004). _Networks: An Introduction_. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Freeman (2000). [Visualizing Social Networks](https://www.cmu.edu/joss/content/articles/volume1/Freeman.html). _Journal of Social Structure_, 1(1). <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
 - Newman (2018). [Chapter 7: Measures and metrics](https://doi.org/10.1093/oso/9780198805090.003.0007). _Networks: An Introduction_. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-- Feld (1991). [Why Your Friends Have More Friends Than You Do](https://doi.org/10.1086/229693). _American Journal of Sociology_, 96(6):1464-1477. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Bearman et al. (2004). [Chains of affection: The structure of adolescent romantic and sexual networks](https://doi.org/10.1086/386272). _American Journal of Sociology_, 110(1):44-91. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Angrist and Sacerdote (2022). [The social connections that shape economic prospects](https://doi.org/10.1038/d41586-022-01843-4). _Nature_, 608:37-38. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Chetty et al. (2022). [Social capital I: measurement and associations with economic mobility](https://doi.org/10.1038/s41586-022-04996-4). _Nature_, 608:108-121. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
-- Baldassarri and Diani (2007). [The Integrative Power of Civic Networks](https://doi.org/10.1086/521839). _American Journal of Sociology_, 113(3):735-80. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-
+- Milo et al. (2002). [Network Motifs: Simple Building Blocks of Complex Networks](https://doi.org/10.1126/science.298.5594.824). _Science_, 298:824-827. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
+- Feld (1991). [Why Your Friends Have More Friends Than You Do](https://doi.org/10.1086/229693). _American Journal of Sociology_, 96(6):1464-1477. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 
 ## Week 3: Where do social networks come from? Models and mechanisms
 
@@ -52,7 +49,6 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
 - Centola (2010). [The spread of behavior in an online social network experiment](https://doi.org/10.1126/science.1185231). _Science_, 329:1194-1197. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Wan, Riedl, and Lazer (2025). [Diffusion of complex contagions is shaped by a trade-off between reach and reinforcement](https://doi.org/10.1073/pnas.2422892122). _Proceedings of the National Academy of Sciences_, 122(28):e2422892122. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Granovetter (1973). [The strength of weak ties](https://doi.org/10.1086/225469). _American Journal of Sociology_, 78(6):1360-1380. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-
 
 ## Week 5: What is happening with online social networks?
 
