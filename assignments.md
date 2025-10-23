@@ -25,6 +25,6 @@ Examples of prompts could be about: 1) open questions from the readings 2) provo
 
 About half our time together will be instructor-led, and about half will be discussion-led. It is important for you to practice talking about ideas and learning from each other.
 
-# Oral final exam
+### Oral final exam
 
 There will be an oral final exam. Details will be provided later.
