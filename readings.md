@@ -42,9 +42,9 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
 
 ## Week 4: How do things spread on social networks?
 
-- Watts (2003). _Six Degrees: The Science of a Connected Age_, Chapter 8. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Granovetter (1973). [The strength of weak ties](https://doi.org/10.1086/225469). _American Journal of Sociology_, 78(6):1360-1380. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Granovetter (1978). [Threshold Models of Collective Behavior](https://doi.org/10.1086/226707). _American Journal of Sociology_, 83(6):1420-1443. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
+- Watts (2003). _Six Degrees: The Science of a Connected Age_, Chapter 8. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Watts (2002). [A simple model of global cascades on random networks](https://doi.org/10.1073/pnas.082090499). _Proceedings of the National Academy of Sciences_, 99(9):5766-5771. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Centola and Macy (2007). [Complex contagions and the weakness of long ties](https://doi.org/10.1086/521848). _American Journal of Sociology_, 113(3):702-734. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Centola (2010). [The spread of behavior in an online social network experiment](https://doi.org/10.1126/science.1185231). _Science_, 329:1194-1197. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
@@ -53,17 +53,17 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
 ## Week 5: What is happening with online social networks?
 
 - Stroud et al. (2020). [A Proposal for Understanding Social Media's Impact on Elections: Rigorous, Peer-Reviewed Scientific Research](https://medium.com/@2020_election_research_project/a-proposal-for-understanding-social-medias-impact-on-elections-4ca5b7aae10). _Medium blog post_. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
-- Iyer (2025). [A Primer on the Meta 2020 US Election Research Studies](https://www.techpolicy.press/a-primer-on-the-meta-2020-us-election-research-studies/). _Tech Policy Press_. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
 - Guess et al. (2023). [How do social media feed algorithms affect attitudes and behavior in an election campaign?](https://doi.org/10.1126/science.abp9364) _Science_, 381(6656):398-404. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
     - Kupferschmidt (2024). [A study found Facebook's algorithm didn't promote political polarization. Critics have doubts](https://doi.org/10.1126/science.zu5amv2). _Science_. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
     - Bagchi et al. (2024). [Social media algorithms can curb misinformation, but do they?](https://doi.org/10.1126/science.abp9364) _Science_, eletter. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
     - Guess et al. (2024). [Response to "Social media algorithms can curb misinformation, but do they?"](https://doi.org/10.1126/science.abp9364) _Science_, eletter. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-
+    - (2023) [US 2020 Facebook & Instagram Election Study: Frequently Asked Questions (FAQ)](https://medium.com/@2020_election_research_project/us-2020-facebook-instagram-election-study-frequently-asked-questions-faq-266d30cbe95b).
+    - Dimmery (2025) [What was US2020? The dialectics of big internet research](https://drewdimmery.substack.com/p/what-was-us2020), Blog post. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Wagner (2023) [Independence by permission: Industry–academy collaboration explores the 2020 US election](https://doi.org/10.1126/science.adi2430) _Science_ (381)6656:388-391. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Guess et al. (2023). [Reshares on social media amplify political news but do not detectably affect beliefs or opinions](https://doi.org/10.1126/science.add8424). _Science_, 381(6656):404-408. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - González-Bailón et al. (2023). [Asymmetric ideological segregation in exposure to political news on Facebook](https://doi.org/10.1126/science.ade7138). _Science_, 381(6656):392-398. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-- Nyhan et al. (2023). [Like-minded sources on Facebook are prevalent but not polarizing](https://doi.org/10.1038/s41586-023-06297-w). _Nature_, 620:137-144. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Allcott et al. (2024). [The effects of Facebook and Instagram on the 2020 election: A deactivation experiment](https://doi.org/10.1073/pnas.2321584121). _Proceedings of the National Academy of Sciences_, 121(21):e2321584121. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-- González-Bailón et al. (2024). [The Diffusion and Reach of (Mis)Information on Facebook During the U.S. 2020 Election](https://doi.org/10.15195/v11.a41). _Sociological Science_, 11:1029-1048. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+-Researchers can apply to access deidentified, individual-level data from any of the published papers at the [Social Media Archive](https://socialmediaarchive.org/)
 
 Special guest from the [Research Accelerator](https://researchaccelerator.org/)
 
