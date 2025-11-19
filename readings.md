@@ -52,7 +52,8 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
 
 ## Week 5: What is happening with online social networks?
 
-- Thorp (2023). [Face value]() _Science_, (381)6656:359. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
+- Stroud et al. (2020). [A Proposal for Understanding Social Media’s Impact on Elections: Rigorous, Peer-Reviewed Scientific Research](https://medium.com/@2020_election_research_project/a-proposal-for-understanding-social-medias-impact-on-elections-4ca5b7aae10) _Blog post_. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Thorp (2023). [Face value](https://dx.doi.org/10.1126/science.adj8930) _Science_, (381)6656:359. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Guess et al. (2023). [How do social media feed algorithms affect attitudes and behavior in an election campaign?](https://doi.org/10.1126/science.abp9364) _Science_, 381(6656):398-404. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
     - Kupferschmidt (2024). [A study found Facebook's algorithm didn't promote political polarization. Critics have doubts](https://doi.org/10.1126/science.zu5amv2). _Science_. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
     - Bagchi et al. (2024). [Social media algorithms can curb misinformation, but do they?](https://doi.org/10.1126/science.abp9364) _Science_, eletter. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
@@ -60,9 +61,9 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
     - (2023) [US 2020 Facebook & Instagram Election Study: Frequently Asked Questions (FAQ)](https://medium.com/@2020_election_research_project/us-2020-facebook-instagram-election-study-frequently-asked-questions-faq-266d30cbe95b).
     - Dimmery (2025) [What was US2020? The dialectics of big internet research](https://drewdimmery.substack.com/p/what-was-us2020), Blog post. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
 
+- Wagner (2023) [Independence by permission: Industry–academy collaboration explores the 2020 US election](https://doi.org/10.1126/science.adi2430) _Science_ (381)6656:388-391. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Guess et al. (2023). [Reshares on social media amplify political news but do not detectably affect beliefs or opinions](https://doi.org/10.1126/science.add8424). _Science_, 381(6656):404-408. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - González-Bailón et al. (2023). [Asymmetric ideological segregation in exposure to political news on Facebook](https://doi.org/10.1126/science.ade7138). _Science_, 381(6656):392-398. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
-- Wagner (2023) [Independence by permission: Industry–academy collaboration explores the 2020 US election](https://doi.org/10.1126/science.adi2430) _Science_ (381)6656:388-391. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
 - Allcott et al. (2024). [The effects of Facebook and Instagram on the 2020 election: A deactivation experiment](https://doi.org/10.1073/pnas.2321584121). _Proceedings of the National Academy of Sciences_, 121(21):e2321584121. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
 - Researchers can apply to access deidentified, individual-level data from any of the published papers at the [Social Media Archive](https://socialmediaarchive.org/)
 
