@@ -69,4 +69,13 @@ In this 6-week seminar we hope to cover some of the history and major themes in 
 
 Special guest from the [Research Accelerator](https://researchaccelerator.org/)
 
-## Week 6: The future is open
+## Week 6: Networks, sampling, and hidden populations
+
+- Salganik and Heckathorn (2004). [Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling](https://doi.org/10.1111/j.0081-1750.2004.00152.x). _Sociological Methodology_, 34:193-240. <img src="https://msalganik.github.io/soc548_f2025/images/closed.png" style="display: inline; height: 14px;" />
+- Abdul-Quader et al. (2006). [Effectiveness of Respondent-Driven Sampling for Recruiting Drug Users in New York City: Findings from a Pilot Study](https://doi.org/10.1007/s11524-006-9052-7). _Journal of Urban Health_, 83:459-476. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Goel and Salganik (2010). [Assessing Respondent-Driven Sampling](https://doi.org/10.1073/pnas.1000261107). _Proceedings of the National Academy of Sciences_, 107:6743-6747. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Gile et al. (2015). [Diagnostics for Respondent-Driven Sampling](https://doi.org/10.1111/rssa.12059). _Journal of the Royal Statistical Society, Series A_, 178:241-269. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Bernard et al. (2010). [Counting Hard-to-Count Populations: The Network Scale-up Method for Public Health](https://doi.org/10.1136/sti.2010.044446). _Sexually Transmitted Infections_, 86(Suppl 2):ii11-ii15. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Feehan and Salganik (2016). [Generalizing the Network Scale-Up Method](https://doi.org/10.1177/0081175016665425). _Sociological Methodology_, 46:153-186. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Feehan et al. (2016). [Quantity Versus Quality: A Survey Experiment to Improve the Network Scale-up Method](https://doi.org/10.1093/aje/kwv287). _American Journal of Epidemiology_, 183:747-757. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
+- Feehan and Salganik (2025). [Validating survey-based estimates of adult mortality with high-quality vital statistics: Evidence from 27 cities](https://files.osf.io/v1/resources/x5ywv_v1/providers/osfstorage/65a54c411c92110a81abe791?action=download&direct&version=2) _Working paper_. <img src="https://msalganik.github.io/soc548_f2025/images/open.png" style="display: inline; height: 14px;" />
